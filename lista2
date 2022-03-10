@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="====HRVATSKA====" tvg-logo="http://195.154.233.186:82/logo_channels/hrt_satelitski_program.png" group-title="Croatia",====HRVATSKA====
+http://iptv.iptelevizija.com:82/live?cId=36&uid=7822&deviceUser=rinaldostepancic!&devicePass=ocXp81Vv9kbbxYAa
+#EXTINF:-1 tvg-id="HTV1.hr" tvg-name="HRT 1 SD" tvg-logo="http://195.154.233.186:82/logo_channels/hrt1.png" group-title="Croatia",HRT 1 SD
+http://iptv.iptelevizija.com:82/live?cId=37&uid=7822&deviceUser=rinaldostepancic!&devicePass=ocXp81Vv9kbbxYAa
+#EXTINF:-1 tvg-id="HTV1.hr" tvg-name="HRT 1 HD" tvg-logo="http://195.154.233.186:82/logo_channels/hrt1.png" group-title="Croatia",HRT 1 HD
+http://iptv.iptelevizija.com:82/live?cId=38&uid=7822&deviceUser=rinaldostepancic!&devicePass=ocXp81Vv9kbbxYAa
